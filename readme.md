@@ -1,5 +1,5 @@
 
-# Forward Compatible Few-Shot Class-Incremental Learning  (FACT)
+# Few-Shot Class-Incremental Learning with Prior Knowledge  (LwPK)
 
 The code repository for "Few-Shot Class-Incremental Learning with Prior Knowledge"
 
